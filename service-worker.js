@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/aniruddi-SSUI-Assignment6/precache-manifest.033df322a370fdcd8b4f6f47f9ac7400.js"
+  "/aniruddi-SSUI-Assignment6/precache-manifest.dd3e941109f1d8ba43f3f49e438960e8.js"
 );
 
 workbox.clientsClaim();

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/aniruddi-SSUI-Assignment6/static/media/FoodIcon.d86bdae1.png"
   },
   {
-    "revision": "ce525fd083b04802c9ed",
-    "url": "/aniruddi-SSUI-Assignment6/static/css/main.7ab426bf.chunk.css"
+    "revision": "82371d519ce181fd7b41",
+    "url": "/aniruddi-SSUI-Assignment6/static/css/main.d30715e9.chunk.css"
   },
   {
     "revision": "cee9e50bd113b797ed21",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/aniruddi-SSUI-Assignment6/static/media/ESC.72453732.jpg"
   },
   {
-    "revision": "ce525fd083b04802c9ed",
-    "url": "/aniruddi-SSUI-Assignment6/static/js/main.ce525fd0.chunk.js"
+    "revision": "82371d519ce181fd7b41",
+    "url": "/aniruddi-SSUI-Assignment6/static/js/main.82371d51.chunk.js"
   },
   {
     "revision": "768ef03b35d0e7570d3093438d1dfb9a",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/aniruddi-SSUI-Assignment6/static/media/UniversityIcon.93589b12.png"
   },
   {
-    "revision": "52ca5a86147249a0a42bf1a149f3b708",
+    "revision": "bb303efdd583793087488a746bbfa88c",
     "url": "/aniruddi-SSUI-Assignment6/index.html"
   }
 ];
