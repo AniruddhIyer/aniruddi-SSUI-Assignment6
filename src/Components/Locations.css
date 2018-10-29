@@ -8,15 +8,15 @@
     padding: 1px;
     border: 2px solid black;
     box-sizing: border-box;
-    background-color: grey;
+    background-image: linear-gradient(to bottom right,grey,white);
 }
 .LocationIcon:hover{
     margin: 2px;
     padding: 1px;
     border: 2px solid black;
     box-sizing: border-box;
-    background-color: aquamarine;
-    animation: Icon-bounce 2 0.3s linear;
+    background-image: linear-gradient(to bottom right,black,white);
+    animation: Icon-bounce infinite 0.3s linear;
 }
 .IconsPart{
     
@@ -30,9 +30,25 @@
 }
 .titleClass{
     border-bottom: 2px solid black;
+    padding: 50px;
+    background-image: linear-gradient(silver,white);
+    color: black;
+    font-size: 33px;
+    font-weight: bolder;
 }
 .contentClass{
     display: flex;
+}
+.descriptionClass{
+    text-align: left;
+    background-image: linear-gradient(silver,white);
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+    padding-top: 20px;
+    line-height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 @keyframes Icon-bounce {
     /* from {

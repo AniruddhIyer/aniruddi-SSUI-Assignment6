@@ -95,8 +95,17 @@ class Locations extends Component {
             <div id="image">
               <img id="IMAGE" src={require("./Bangalore.jpg")} width="400px" height="500px" alt="Image goes here"/> 
             </div>
-            <div id="description">
-            Please click on any of the icons on the side for different locations!
+            <div id="description" className="descriptionClass">
+            You have now arrived at the Garden City of India, Bangalore. Please click on any of the icons on the side for an example of a location based on category!
+            <ul>
+              <li>Residential Apartments</li>
+              <li>Entertainment Cafes</li>
+              <li>Educational Institutions</li>
+              <li>Office Workspaces</li>
+              <li>Dining</li>
+              <li>Travel/Transport</li>
+            </ul>
+
             </div>
           </div>
         </div>

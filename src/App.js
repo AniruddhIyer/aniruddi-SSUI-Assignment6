@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       Bangalore, India
+       Bangalore, the I.T Capital of India!
        <br/>
         <Locations/>
       </div>
